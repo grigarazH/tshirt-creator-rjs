@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tshirt-creator-rjs/static/css/main.1875efbb.css",
+    "main.js": "/tshirt-creator-rjs/static/js/main.ba818866.js",
+    "static/media/mens_longsleeve_back.png": "/tshirt-creator-rjs/static/media/mens_longsleeve_back.8a84894aeb739517d8d8.png",
+    "static/media/mens_longsleeve_front.png": "/tshirt-creator-rjs/static/media/mens_longsleeve_front.c3c95aa67a1973c9a221.png",
+    "static/media/mens_hoodie_back.png": "/tshirt-creator-rjs/static/media/mens_hoodie_back.8ffb15940f5cbe9759d7.png",
+    "static/media/mens_hoodie_front.png": "/tshirt-creator-rjs/static/media/mens_hoodie_front.1ea342f28be15b4789de.png",
+    "static/media/crew_back.png": "/tshirt-creator-rjs/static/media/crew_back.2d5d0b81204dbe287fa4.png",
+    "static/media/crew_front.png": "/tshirt-creator-rjs/static/media/crew_front.cf6079bee0084c98d7b3.png",
+    "static/media/mens_tank_front.png": "/tshirt-creator-rjs/static/media/mens_tank_front.d19ba9d78e80ef131dd6.png",
+    "index.html": "/tshirt-creator-rjs/index.html",
+    "main.1875efbb.css.map": "/tshirt-creator-rjs/static/css/main.1875efbb.css.map",
+    "main.ba818866.js.map": "/tshirt-creator-rjs/static/js/main.ba818866.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1875efbb.css",
+    "static/js/main.ba818866.js"
+  ]
+}
