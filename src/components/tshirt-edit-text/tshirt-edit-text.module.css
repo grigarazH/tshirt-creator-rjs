@@ -1,0 +1,73 @@
+.tShirtEditText {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.tShirtEditText__dropdown {
+    width: 100%;
+}
+
+.fontIcon {
+    border-width: 1px 0 1px 0;
+    border-style: solid;
+    border-color: #282c34;
+}
+
+.fontIcon_active {
+    background-color: #bbb;
+}
+
+.fontIcon:hover {
+    background-color: #ccc;
+}
+
+.fontIcon:first-of-type {
+    border-radius: 3px 0 0 3px;
+    border-width: 1px 0 1px 1px;
+}
+
+.fontIcon:last-of-type {
+    border-radius: 0 3px 3px 0;
+    border-width: 1px 1px 1px 0;
+}
+
+.colorButton {
+    background: url(../../images/icons/line-2-24.png);
+    width: 24px;
+    height: 24px;
+    border: 1px solid black;
+}
+
+.colorButtonContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.picker {
+    display: none;
+}
+
+.picker__cover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.picker_active {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 43px;
+}
+
+.textColors {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}

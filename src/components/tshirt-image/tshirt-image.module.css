@@ -1,0 +1,13 @@
+.tShirtImage {
+    width: 100px;
+    height: 100px;
+    background: white;
+    border: 1px solid black;
+    padding: 0;
+}
+
+.tShirtImage__img {
+    width: 98px;
+    height: 98px;
+    object-fit: cover;
+}

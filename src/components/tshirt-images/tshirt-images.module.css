@@ -1,0 +1,6 @@
+.tShirtImages {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
+    width: 210px;
+}

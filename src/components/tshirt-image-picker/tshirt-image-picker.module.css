@@ -1,0 +1,9 @@
+.tShirtImagePicker {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.images {
+    align-self: center;
+}
